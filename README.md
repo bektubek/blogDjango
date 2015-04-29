@@ -1,0 +1,2 @@
+# blogDjango
+bektur saitkulov
